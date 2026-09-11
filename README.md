@@ -52,14 +52,6 @@ My experience spans **payments, digital health, e-commerce and immersive technol
 
 [![My Skills](https://skillicons.dev/icons?i=py,java,js,ts,html,css,git,github)](https://skillicons.dev)
 
-<br>
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="VBA"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-<img src="https://img.shields.io/badge/Data%20Analysis-4B8BBE?style=for-the-badge" alt="Data Analysis"/>
-<img src="https://img.shields.io/badge/QA%20%26%20UAT-6E40C9?style=for-the-badge" alt="QA and UAT"/>
-
 ---
 
 ### 📚 Currently Exploring
