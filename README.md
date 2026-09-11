@@ -15,16 +15,8 @@
     />
 </a>
 
-<!--
-    Create your own terminal GIF at:
-    https://www.terminalgif.com
-
-    Save it as:
-    assets/about_junjie.gif
--->
-
 <div>
-    <img src="./assets/about_junjie.gif" alt="About Jun Jie Terminal GIF"/>
+    <img src="./about_junjie.gif" alt="About Jun Jie Terminal GIF"/>
 </div>
 
 ---
