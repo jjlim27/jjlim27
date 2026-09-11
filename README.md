@@ -36,7 +36,7 @@ My experience spans **payments, digital health, e-commerce and immersive technol
 > [!IMPORTANT]
 > Interested in my experience?
 >
-> <a href="./Lim_Jun_Jie_Resume.pdf">View my resume</a>
+
 
 ---
 
