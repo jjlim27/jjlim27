@@ -16,7 +16,7 @@
 </a>
 
 <div>
-    <img src="./about_junjie.gif" alt="About Jun Jie Terminal GIF"/>
+    <img src="./about_jj.gif" alt="About Jun Jie GIF"/>
 </div>
 
 ---
