@@ -70,7 +70,6 @@ My coursework and interests currently include:
 * 📦 Digital Product Management
 * 🗄️ Database Systems
 * 🧩 Advanced Software Engineering
-* 💡 Building user-focused digital products
 
 ---
 
@@ -82,27 +81,9 @@ Bachelor of Computing, Computer Science
 
 **Temasek Polytechnic, Singapore**
 Diploma in Computer Engineering
-🏅 Director's List Award 2020/2021
+`2018– 2021`
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img
- height="170"
- src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent"
- alt="Jun Jie's GitHub Stats"
-/>
-
-<img
- height="170"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent"
- alt="Jun Jie's Top Languages"
-/>
-
-</div>
 
 ---
 
